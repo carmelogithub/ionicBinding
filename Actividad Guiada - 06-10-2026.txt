@@ -1,0 +1,26 @@
+Actividad Guiada - 06-10-2026 
+
+La entrega se realiza en PDF. El nombre del fichero PDF será Actividad06-10-2026_tunombre.pdf
+Google Docs / Word... en donde capturas pantalla de contenido relevante + enlace de github + enlace Vercel
+
+1. Por qué no tienes app.config.ts - página 5 no hay que hacerlo. Se haría con AppMOdule
+2. ThroubleShooting es el proceso de resolución de problemas. Durante la actividad guiada deben aparecer varios errores. Deberás explicar cómo lo has resuelto con capturas de imágenes y explicación técnica.
+3. No me gusta que ionic sirva en 8100 cambia a otro puerto
+4. El archivo del modelo se debe llamar product.model - Tienes que cambiarle el nombre y debería actualizarse todas sus referencias en el proyecto. En otros entornos se consigue con refactorizar, en VSCode se actualiza solo?
+5. Añadir un botón de modo oscuro
+6. En lugar de mostrar los productos como una tabla, se pueden utilizar otros elementos como cards, gráficos, dashboards...
+7. Añade paginación a la página productos
+8. En Github subes el proyecto a la rama desarrollo. Pero cuando está revisada y ok la pasas a la rama main y Vercel publica la rama main (este es el flujo de trabajo a seguir).
+9. No me gusta el diseño que aplicas. Cambia el estilo a otra gama de color.
+10. Buildea Ionic a Android y muestra la app en el emulador Pixel 9
+11. Porqué hay que modificar el template para que actualice el render de la table. (signals)
+12. Qué diferencia hay entre page y component. 
+
+
+
+
+
+
+
+
+
